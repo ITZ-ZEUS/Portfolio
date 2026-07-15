@@ -42,7 +42,7 @@ hiddenElements.forEach((el, index) => {
 
 // Typewriter Effect
 const textElement = document.getElementById('typing-text');
-const phrases = ["Computer Science Postgraduate", "UI/UX Designer", "Tech Enthusiast"];
+const phrases = ["Junior DevOps Engineer","AWS Cloud Engineer"];
 let phraseIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
